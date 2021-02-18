@@ -1,4 +1,0 @@
-<p><iframe frameborder="0" height="600" scrolling="no" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=capstmarys%40gmail.com&amp;color=%232952A3&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%230F4B38&amp;ctz=America%2FNew_York" style="border-width:0" width="800"></iframe></p>
-
-<p><iframe frameborder="0" height="1375" scrolling="no" src="https://md089.capunitdev.com/calendar?embed=true" style="border-width:0" width="1150"></iframe></p>
-
